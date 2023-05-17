@@ -5,8 +5,10 @@ Project 1 - Healthcare Data
   
   The question first begins with what percentage of the population has their vaccination seriers completed. Based on the data, we can see that the average series completion percentage increases over time (Figure 1). During 2021, the collection of series completion began. Due to the dataset being extremely large, filtering the data over monthly and yearly time axis is beneficial. Monthly and yearly datapoints were filtered from the original dataset as averages. On average, 2021, 2022, and 2023 vaccination series completion percentages were 26.84%, 51.01%, and 53.93% respectively (Figure 2). 
 
-![image](https://github.com/deku1261/HealthCare_Project1/assets/92231055/179e51f2-1bd3-4658-9066-2ff683cf4c7a) /n
+![image](https://github.com/deku1261/HealthCare_Project1/assets/92231055/179e51f2-1bd3-4658-9066-2ff683cf4c7a)
+
 Figure 1. Average Monthly Cov-19 Vaccination Series Completion %
 
-![image](https://github.com/deku1261/HealthCare_Project1/assets/92231055/18773593-8e14-4955-971c-cceb9aac3897) /n
+![image](https://github.com/deku1261/HealthCare_Project1/assets/92231055/18773593-8e14-4955-971c-cceb9aac3897)
+
 Figure 2. Average Yearly Cov-19 Vaccination Series Completion %
