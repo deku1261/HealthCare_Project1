@@ -33,6 +33,8 @@ Project 1 - Healthcare Data
  >The 'Date' column was used to create a 'Year' column. This was accomplished by slicing the first four characters from each entry in the 'Date' column. 
   
 ># Code Snippet
+  
+>df.Date.replace('.+/','', regex=True, inplace=True)
 >clean_df['Year'] = clean_df['Date'].str[:4]
 
 >years = clean_df['Year'].unique()
