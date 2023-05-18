@@ -15,7 +15,8 @@ Figure 1. Average Monthly Cov-19 Vaccination Series Completion %
 
 Figure 2. Average Yearly Cov-19 Vaccination Series Completion %
 
-Robert:
+
+<b>Robert:<b/>
 
 # HealthCare_Project1
 Project 1 - Healthcare Data
