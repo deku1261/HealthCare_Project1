@@ -17,9 +17,10 @@ Figure 2. Average Yearly Cov-19 Vaccination Series Completion %
 
 Robert:
 
-Ariel:
+
 
 Rachel:
+
 # HealthCare_Project1
 ![download](https://github.com/deku1261/HealthCare_Project1/assets/124642442/a9ad3656-dede-4ebd-94f9-279398118f06)
 
@@ -37,9 +38,9 @@ Understanding the variation in COVID-19 vaccine administration across different 
 
 
 
+Ariel:
 
-
- Distribution of COVID-19 Vaccination by Age Groups from 2021 to 2023: A Comparative Analysis
+Distribution of COVID-19 Vaccination by Age Groups from 2021 to 2023: A Comparative Analysis
 The COVID-19 pandemic has presented an unprecedented global health crisis, prompting the rapid development and deployment of vaccines. Vaccination campaigns play a pivotal role in curbing the transmission of the virus, protecting vulnerable individuals, and reducing the burden on healthcare systems. To assess the distribution of COVID-19 vaccination by age groups, data from the CDC were analyzed. The study population was divided into three age categories: 5 to 17, 18 to 64, and 65 and older. The percentage of individuals within each age group who had completed the series of the vaccine was calculated and compared. Analysis of the data revealed notable variations in vaccination coverage among the different age groups. Surprisingly, the age group 5 to 17 exhibited the highest vaccination percentage. This finding can be attributed to the prioritization of school-age children and adolescents in vaccination campaigns, aiming to safeguard educational settings and reduce the potential for virus transmission within this population. In contrast, the 65 and over age group demonstrated the lowest percentage of vaccinated individuals.
 
 
