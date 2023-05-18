@@ -63,7 +63,8 @@ In 2023: there were no changes in the percentage although the number totals have
 
 The overall for each of the age groups from year to year
 ![Year over Year chart](https://github.com/deku1261/HealthCare_Project1/assets/126893877/3421fcb1-1a94-4ebf-83a2-d7d4eca1d50f)
-In September 2021 was the first round of Covid vaccinations so the data only shows 3 months of data.  Although at that time it was a rush to get as many people vaccinated as possible.  Mainly focusing on the school age group.  The 2022 which is the only data that shows a full 12-month period.  Finally the 2023 data shows the same percentage as 2022 but the number of people fully vaccinated dropped.  The factors may include that it is showing the tail end of the Vaccinations.  Only 5 months of data.
+  
+The Covid vaccines has been administered since 2020.  The data collected shows September 2021 as people started to be fully vaccineated. The first shots and any booster shots. 2021 only shows 3 months of data. This is around the time that schools start and mainly focusing on the school age group.  2022 is the only data that shows a full 12-month period.  Finally the 2023 data shows the same percentage as 2022 but the number of people fully vaccinated dropped.  The factors may include that it is showing the tail end of the Vaccinations.  Only 5 months of data.
 
 
 
